@@ -1,16 +1,3 @@
 # springedge
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2024-09-08 112827](https://github.com/user-attachments/assets/122cc147-d137-428a-8908-1482ce6f8950)
+![Screenshot 2024-09-08 112730](https://github.com/user-attachments/assets/507bbe1c-2413-4bdc-9749-be663a9f64bf)
