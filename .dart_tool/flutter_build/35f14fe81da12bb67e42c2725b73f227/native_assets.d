@@ -1,0 +1,1 @@
+ D:\\flutter_projects\\springedge\\.dart_tool\\flutter_build\\35f14fe81da12bb67e42c2725b73f227\\native_assets.yaml: 
